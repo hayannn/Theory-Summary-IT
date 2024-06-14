@@ -1,6 +1,11 @@
 # 🦕 Theory-Summary-IT
 IT 관련 교재 개인 스터디 저장소
 
+<br>
+
+## ▫️ Notion & Velog Link
+- [Notion Page] [🎸Theory Summary](https://hayanlee.notion.site/Theory-Summary-ae4b682b15d74e9bb04ca177820b0a03?pvs=4)
+- [Velog] [시리즈 | 🎸Theory Summary](https://velog.io/@dlgkdis801/series/%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88)
 
 <br>
 
@@ -29,9 +34,8 @@ IT 관련 교재 개인 스터디 저장소
 <br>
 
 3️⃣ [기술 면접 대비 CS전공 핵심요약집](https://www.yes24.com/Product/Goods/121769526)_이수진 지음
-- ⭐ 1일에 작은 챕터 하나씩 정리
+- ⭐ 챕터 1개당 일주일씩
   - 내용 정리 + 궁금한 내용은 "질문"에 정리한 다음 스스로 답변
-  - ex) Day1 - 1.1, Day2 - 1.2 …
 
 <div align="center">
 <img src="https://github.com/hayannn/Theory-Summary-IT/assets/102213509/522b1b02-b740-4bd6-b83a-22c0622d0232" width="30%" height="30%">
@@ -47,7 +51,7 @@ IT 관련 교재 개인 스터디 저장소
     - Data Storage: https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B9912985019
   
   - **공부 Plan**
-    - ⭐ 2일에 1챕터씩 정리 → 궁금한 내용은 “질문”에 정리하고 스스로 답변
+    - ⭐ 3일에 1챕터씩 정리 → 궁금한 내용은 “질문”에 정리하고 스스로 답변
     - 동영상 강의도 수강! + 깃허브도 참고하기!
 
 
@@ -59,6 +63,9 @@ IT 관련 교재 개인 스터디 저장소
 <br>
 <br>
 
+
+<details>
+<summary><strong>💭 상세 계획 초안</strong></summary>
 ## ▫️ 상세 계획
 ### Day1-2
 - 2024/05/30 - 2024/05/31
@@ -196,15 +203,16 @@ IT 관련 교재 개인 스터디 저장소
 - 2024/07/02 - 2024/07/03
   - 가상 면접 사례로 배우는 대규모 시스템 설계 기초 : CH16. 배움은 계속된다
   - 이것이 취업을 위한 백엔드 개발이다 with 자바 : APPENDIX A API 테스트를 위한 툴, Postman / APPENDIX B 과제 테스트 최종 문서화하기
+</details>
 
 <br>
-<br>
-<br>
-<br>
 
-
-
-
+## ▫️ 6/17(월)부터 상세 계획 변경
+- 위에서부터 순서대로 교재 1, 2, 3, 4로 정리
+- CH명 앞에 번호를 붙여 표시함.
+<img width="1624" alt="image" src="https://github.com/hayannn/Theory-Summary-IT/assets/102213509/b5be9455-e8b7-4599-a9ee-8e3fe171a48a">
+<img width="1624" alt="image" src="https://github.com/hayannn/Theory-Summary-IT/assets/102213509/7ad45af8-bd75-4433-a2f8-671c1f163c9f">
+<img width="1624" alt="image" src="https://github.com/hayannn/Theory-Summary-IT/assets/102213509/61f2c8e5-bccf-4bc5-8414-d24816b09137">
 
 
 
